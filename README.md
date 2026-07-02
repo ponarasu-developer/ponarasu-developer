@@ -1,4 +1,4 @@
-👋 Hi there! I'm Pon Arasu, a passionate app developer with 2.5 years of experience specializing in React Native and Flutter. 🚀
+👋 Hi there! I'm Pon Arasu, a passionate app developer with 3+ years of experience specializing in React Native and Flutter. 🚀
 
 With a solid background in mobile app development, I’ve successfully designed, built, and deployed applications on both the App Store and Google Play Store. My expertise extends to crafting seamless user experiences and implementing robust features using React Native and Flutter.
 
